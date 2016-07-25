@@ -8,16 +8,13 @@ A continuación se van a listar una serie de issues en los que puede aportar, ha
 
 Algunos resulven problemas técnicos pero otros, así que no dude cuando tengo una hora libre haga un aporte a un issue.
 
-- [ ] checkbox is done with the two brackets next to the P key
-- [ ] checkbox is done with the two brackets next to the P key
-- [ ] checkbox is done with the two brackets next to the P key
-- [ ] checkbox is done with the two brackets next to the P key
-
-
-
-
+- [ ] [Definición del tema para la estrategia](https://github.com/unloquer/estrategia/issues/1) 
+- [ ] Otras issue que vayamos resolviendo
 
 ## Pruebas de conceptos de muchas cosas
+
+```La idea es que cada uno de estas pruebas de concepto, tengan un repositorio pero acá se irán listando las issues y se enlazaran a su repositorio como se hace arriba con la estrategia```
+
 ### Domótica abierta - accesible y DIY -> prueba de concepto
 
 * **Sistema de hidrante automatizado:** Tarro de cocacola con los datos, que mide y manda alertas. Con plataforma donde se pueda compartir los patrones de los periodos de las matas, que apartir de crowdsourcing sean analizados. Botella de agua funciona como un 
